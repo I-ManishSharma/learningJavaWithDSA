@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem4 {
+public class PairSumInArray {
     public static void main(String[] args) {
         //Problem 4: Count pair with given sum in the array.
         Scanner sc = new Scanner(System.in);

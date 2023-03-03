@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem10 {
+public class FindPower {
     public static void main(String[] args) {
         //Problem 10: Find X to the power 'N'.
 

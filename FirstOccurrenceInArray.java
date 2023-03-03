@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem5 {
+public class FirstOccurrenceInArray {
     public static void main(String[] args) {
         /*problem 5: WAP to find the index of the first occurrence of the element X in the array and if
         it is not present, return -1.*/

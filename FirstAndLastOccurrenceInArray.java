@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem7 {
+public class FirstAndLastOccurrenceInArray {
     public static void main(String[] args) {
         /*Problem 6: WAP to find the index of the first and last occurrence of the element X in the array and if
         it is not present, return -1.*/

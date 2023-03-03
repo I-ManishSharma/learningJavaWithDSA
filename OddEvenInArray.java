@@ -1,4 +1,4 @@
-public class problem8 {
+public class OddEvenInArray {
     public static void main(String[] args) {
         //Program 8: Find sum of even digits and odd digits in an array.
 

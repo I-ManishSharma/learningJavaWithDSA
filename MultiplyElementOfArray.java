@@ -1,4 +1,4 @@
-public class problem9 {
+public class MultiplyElementOfArray {
     public static void main(String[] args) {
         //Problem 9: Multiply the elements of array.
 

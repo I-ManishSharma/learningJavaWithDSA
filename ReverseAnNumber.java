@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class leetCodeProblem1 {
+public class ReverseAnNumber {
     public static void main(String[] args) {
 
         //Problem : Reverse a number. eg- 25 is reversed as 52.

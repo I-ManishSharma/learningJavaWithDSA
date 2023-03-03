@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class problem13 {
+public class PrintPrime {
     public static void main(String[] args) {
         //Problem 13: WAP to print all prime number b/w two given numbers.
 

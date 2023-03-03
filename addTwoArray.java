@@ -1,5 +1,5 @@
 
-public class problem1 {
+public class addTwoArray {
     public static void main(String[] args) {
         //Problem 1 : Add elements of two array.
 

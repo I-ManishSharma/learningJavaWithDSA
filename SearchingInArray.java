@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem2 {
+public class SearchingInArray {
     public static void main(String[] args) {
         //Problem 2 : find an element is present in an array or not.
 

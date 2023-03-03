@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem11 {
+public class EvenOddSum {
     public static void main(String[] args) {
         //Problem 11: Find the sum of even digits and odd digits separately.
 

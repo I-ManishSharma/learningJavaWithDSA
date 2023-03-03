@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problem12 {
+public class PrimeNotPrime {
     public static void main(String[] args) {
         //WAP to check the number is prime or not.
 
